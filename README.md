@@ -1,4 +1,4 @@
-# Code-for-mask-avoid-sport-proyect
+# Code-for-mask-sport-proyect
 this is the code for the arduino r3 uno
 
 prototype for The COVID-19 Detect & Protect Challenge 
